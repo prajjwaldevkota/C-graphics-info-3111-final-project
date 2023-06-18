@@ -1,0 +1,532 @@
+assets/models9/SM_Prop_Shipwreck_01_xyz_n_uv.ply
+0
+5.31003f, -1.68f, -1.89f 
+26.0001f, 299.109f, 32.6001f 
+0.545098f, 0.270588f, 0.0745098f 
+0.24
+
+assets/models9/Barrel_uv.ply
+1
+1.67021f, -2.21996f, 6.35065f 
+57.5396f, -1.59f, 10.2f 
+1f, 0f, 0.5f 
+2.05986
+
+assets/models9/Fish_uv.ply
+2
+-2.35986f, -0.430002f, 4.6905f 
+91.2992f, 7.2f, 14.7f 
+0f, 2f, 0.5f 
+1.38998
+
+assets/models9/Fish_uv.ply
+3
+0.030041f, -0.730005f, -1.66962f 
+27.9001f, 2f, 10.8f 
+0.7f, 0.5f, 1f 
+2
+
+assets/models9/Fish_uv.ply
+4
+-9.01994f, 0.519997f, -12.1798f 
+92.7791f, 11.7f, 9.7f 
+0.5f, 1f, 0.5f 
+1.5
+
+assets/models9/Fish_uv.ply
+5
+-20.55f, -0.250003f, -10.5197f 
+5.20996f, -0.109998f, 9.9f 
+1f, 0.7f, 0.7f 
+3
+
+assets/models9/Shark_uv.ply
+6
+-4.27982f, 1.47999f, -1.3f 
+298.91f, 7f, 157.801f 
+1f, 0f, 0.5f 
+0.799933
+
+assets/models9/SM_Bld_Dock_Bridge_01_xyz_n_uv.ply
+7
+1.49f, -1.34988f, -2.41f 
+35.4f, 0f, 20.1f 
+0.4f, 1f, 0.5f 
+0.650002
+
+assets/models9/Whale_uv.ply
+8
+-9.4398f, 1.28f, 2.26008f 
+287.968f, 24.27f, 8.3f 
+0.4f, 1f, 0.5f 
+15.8102
+
+assets/models9/Seafloor2_ONLY_xyz_n_uv.ply
+9
+-2.59f, -2.56f, 0.31f 
+0f, 0f, 0f 
+0.941176f, 0.901961f, 0.54902f 
+0.09
+
+assets/models9/archRock_uv.ply
+10
+5.24017f, -0.139852f, -1.61924f 
+181.602f, 263.707f, 344.612f 
+0.352941f, 0.301961f, 0.254902f 
+0.320001
+
+assets/models9/skullRock_uv.ply
+11
+13.6103f, -1.03978f, 1.62109f 
+429.909f, 269.528f, 48.1412f 
+0.396078f, 0.32549f, 0.32549f 
+0.179854
+
+assets/models9/octopus.ply
+12
+2.26027f, -1.47001f, 12.211f 
+28.2001f, 16.7f, 12.6f 
+0.6f, 0.4f, 0.8f 
+0.290004
+
+assets/models9/Jellyfish.ply
+13
+10.42f, -1.46f, 1.01f 
+251.406f, 0f, 0.9f 
+1f, 0.87f, 0.12f 
+0.5
+
+assets/models9/Jellyfish.ply
+14
+7.02001f, -1.6f, 12.2703f 
+280.008f, 2.4f, 12.4f 
+0.584314f, 0.792157f, 0.815686f 
+0.5
+
+assets/models9/Jellyfish.ply
+15
+-4.98999f, 0.52f, 1.53f 
+267.507f, 0f, 0f 
+0.7f, 1f, 0.12f 
+0.5
+
+assets/models9/oceanwaves_ONLY_xyz_n_uv.ply
+16
+0.42f, 7.00013f, 1.65f 
+108.588f, 272.159f, 105.099f 
+0f, 0f, 2f 
+11.9002
+
+assets/models9/Jellyfish.ply
+17
+-4.98999f, 4.01f, -0.58999f 
+393.564f, 4.19999f, 9.78999f 
+0.7f, 1f, 0.12f 
+0.65
+
+assets/models9/fishcluster.ply
+18
+-13.27f, 3.51f, 4.25f 
+51.3399f, 60.9694f, 51.8998f 
+1f, 0f, 0f 
+3.21986
+
+assets/models9/Grass.ply
+19
+6.29999f, -1.41f, 7.46008f 
+0f, 0f, 0f 
+0.4f, 0.6f, 0.4f 
+0.640002
+
+assets/models9/kiwi.ply
+20
+2.74003f, -2.5f, 15.3504f 
+0f, 0f, 0f 
+0.4f, 0.8f, 0.7f 
+3.21986
+
+assets/models9/fishcluster.ply
+21
+4.75022f, -0.589999f, 12.7802f 
+155.74f, 60.9694f, 51.8998f 
+1f, 0.5f, 1f 
+3.21986
+
+assets/models9/fishcluster.ply
+22
+5.76033f, -0.23f, 2.66002f 
+84.3394f, 74.7692f, 77.6994f 
+1f, 1f, 0f 
+3.21986
+
+assets/models9/SM_Env_Grass_01_xyz_n_uv.ply
+23
+-4.48961f, -2.47995f, -1.95962f 
+337.912f, 263.707f, 344.612f 
+0.3f, 0.7f, 0.5f 
+3
+
+assets/models9/SM_Env_Flowers_02.ply
+24
+-7.9f, -2.96f, 5.63003f 
+341.412f, 263.707f, 344.612f 
+0.2f, 0.7f, 0.4f 
+2.53
+
+assets/models9/SM_Env_Flowers_02.ply
+25
+7.81036f, -2.91989f, -2.44994f 
+388.715f, 311.41f, 359.313f 
+0.6f, 0.7f, 0.5f 
+1.74998
+
+assets/models9/Young Kiwi Vines_ONLY.ply
+26
+-5.10997f, -2.46997f, 10.3503f 
+199.903f, 356.513f, 534.517f 
+0.3f, 0.6f, 0.5f 
+3
+
+assets/models9/SM_Env_Grass_01_xyz_n_uv.ply
+27
+2.62003f, -2.29997f, 8.03009f 
+337.912f, 263.707f, 344.612f 
+0f, 1f, 0f 
+1.21
+
+assets/models9/kiwi.ply
+28
+2.74003f, -2.5f, 15.3504f 
+358.213f, 264.607f, 350.512f 
+0.4f, 0.8f, 0.7f 
+3
+
+assets/models9/kiwi.ply
+29
+-10.73f, -2.55f, -5.20991f 
+15.1f, 0f, 0f 
+0.5f, 0.5f, 0.3f 
+3
+
+assets/models9/kiwi.ply
+30
+5.73007f, -2.18f, -1.66973f 
+0f, 0f, 0f 
+0f, 1f, 0.6f 
+3
+
+assets/models9/SM_Env_Seaweed_01.ply
+31
+10f, -3.04f, 13.7302f 
+306.41f, 263.707f, 344.612f 
+0.4f, 0.5f, 0.6f 
+1.05
+
+assets/models9/SM_Env_Plants_02.ply
+32
+-1.71999f, -1.38f, 7.45008f 
+353.512f, 268.207f, 344.612f 
+0.5f, 0.4f, 0.7f 
+0.94
+
+assets/models9/SM_Env_Plants_02.ply
+33
+5.58003f, -2.2f, 13.7103f 
+358.213f, 264.607f, 350.512f 
+0.6f, 0.3f, 0.8f 
+1
+
+assets/models9/SM_Env_Grass_02.ply
+34
+6.29999f, -1.97f, -4.4f 
+337.912f, 263.707f, 344.612f 
+0.7f, 0.2f, 0.9f 
+1
+
+assets/models9/SM_Env_Grass_03.ply
+35
+6.29999f, -1.41f, 7.46008f 
+337.912f, 263.707f, 344.612f 
+0.4f, 0.6f, 0.4f 
+0.640002
+
+assets/models9/SM_Env_Flowers_01.ply
+36
+-5.02996f, -1.03f, 4.63027f 
+207.703f, 356.513f, 558.711f 
+0.4f, 0.6f, 0.2f 
+1.45
+
+assets/models9/SM_Env_Plants_03.ply
+37
+-7.21996f, -3.14989f, -11.6897f 
+367.114f, 275.208f, 350.512f 
+0.7f, 0.3f, 0.1f 
+1.02
+
+assets/models9/SM_Env_Plants_01.ply
+38
+2.74003f, -2.5f, 15.3504f 
+358.213f, 264.607f, 350.512f 
+0.8f, 0.2f, 0.3f 
+2.24
+
+assets/models9/SM_Env_Plants_01.ply
+39
+10.7602f, -2.36999f, 5.10031f 
+358.213f, 264.607f, 350.512f 
+0.5f, 0.7f, 0.6f 
+2.42
+
+assets/models9/SM_Env_Grass_01.ply
+40
+2.62003f, -2.29997f, 8.03009f 
+337.912f, 263.707f, 344.612f 
+0f, 1f, 0f 
+1.21
+
+assets/models9/SM_Env_Grass_02.ply
+41
+-1.09987f, -2.27f, -4.4f 
+337.912f, 263.707f, 344.612f 
+0.8f, 0.4f, 0.4f 
+1.13
+
+assets/models9/SM_Env_Seaweed_01.ply
+42
+7.89009f, -4.03999f, 4.4102f 
+326.611f, 274.208f, 344.612f 
+0.2f, 1f, 0.3f 
+1.05
+
+assets/models9/SM_Env_Seaweed_01.ply
+43
+-13.24f, -3.56f, -1.58981f 
+319.411f, 263.707f, 344.612f 
+0.01f, 1f, 0.2f 
+1.05
+
+assets/models9/SM_Env_Rock_01.ply
+44
+11.7702f, -2.24f, -3.35974f 
+13.2f, 17.7f, 7.3f 
+0.571118f, 0.387037f, 0.7757f 
+0.489981
+
+assets/models9/SM_Env_Rock_01.ply
+45
+7.13025f, -1.88f, 1.56026f 
+98.2991f, 17.7f, 7.3f 
+0.664336f, 0.369105f, 0.806405f 
+0.349866
+
+assets/models9/SM_Env_Rock_01.ply
+46
+-9.9698f, -2f, -14.9598f 
+43.2999f, 17.7f, 7.3f 
+0.521169f, 0.390363f, 0.760138f 
+0.329981
+
+assets/models9/SM_Env_Rock_01.ply
+47
+-1.44979f, -1.88f, 11.2304f 
+156.9f, 30.3f, 7.3f 
+0.565032f, 0.38301f, 0.781775f 
+0.339981
+
+assets/models9/SM_Env_Rock_01.ply
+48
+3.62022f, -2.57f, 6.91042f 
+32.8001f, 17.7f, 27.1001f 
+0.607144f, 0.383625f, 0.795115f 
+0.489981
+
+assets/models9/SM_Env_Rock_02.ply
+49
+10.9104f, -2.57f, 6.91042f 
+32.8001f, 17.7f, 27.1001f 
+0.587764f, 0.38504f, 0.78531f 
+0.489981
+
+assets/models9/SM_Env_Rock_02.ply
+50
+-0.279777f, -2.33f, -5.18944f 
+34.5001f, 17.7f, 27.1001f 
+0.609518f, 0.361682f, 0.811567f 
+0.469981
+
+assets/models9/SM_Env_Rock_02.ply
+51
+-5.39964f, -1.89997f, -3.60955f 
+62.2996f, 19.4f, 37.1f 
+0.59428f, 0.381058f, 0.77482f 
+0.489981
+
+assets/models9/SM_Env_Rock_02.ply
+52
+-15.1497f, -2.06997f, 1.20045f 
+54.0998f, 17.7f, 27.1001f 
+0.563849f, 0.402789f, 0.764032f 
+0.489981
+
+assets/models9/SM_Env_Rock_02.ply
+53
+3.62022f, -2.57f, 6.91042f 
+32.8001f, 17.7f, 27.1001f 
+0.560275f, 0.385716f, 0.779614f 
+0.489981
+
+assets/models9/SM_Env_Rock_03.ply
+54
+9.27989f, -2.19f, 12.8506f 
+96.8991f, 35.2f, 33.8001f 
+0.570721f, 0.388423f, 0.783282f 
+0.62
+
+assets/models9/SM_Env_Rock_03.ply
+55
+-5.61009f, -2.39988f, -11.2495f 
+45.0999f, 45.3998f, 91.7992f 
+0.597719f, 0.375629f, 0.789038f 
+1
+
+assets/models9/SM_Env_Rock_03.ply
+56
+-12.0399f, -2.04f, 4.25116f 
+38.3f, 28.9f, 44.0999f 
+0.52735f, 0.402496f, 0.773791f 
+1.08
+
+assets/models9/SM_Env_Rock_03.ply
+57
+-15.6401f, -1.83991f, 3.02085f 
+54.6998f, 17.7f, 97.3991f 
+0.574092f, 0.370303f, 0.801436f 
+1
+
+assets/models9/SM_Env_Rock_03.ply
+58
+6.22982f, -2.00994f, -3.52943f 
+61.5997f, 17.7f, 83.8993f 
+0.584124f, 0.384613f, 0.777008f 
+0.230001
+
+assets/models9/SM_Env_Rock_03.ply
+59
+5.84986f, -2.46f, -0.279564f 
+32.8001f, 18.6f, 27.1001f 
+0.550317f, 0.402096f, 0.777625f 
+0.65
+
+assets/models9/SM_Env_Rock_03.ply
+60
+17.2502f, -1.82997f, -2.24927f 
+90.5992f, 17.7f, 27.1001f 
+0.586678f, 0.380343f, 0.797119f 
+0.72
+
+assets/models9/SM_Env_Rock_03.ply
+61
+-27.2301f, -1.60995f, -11.9995f 
+142.6f, 17.7f, 27.1001f 
+0.541597f, 0.398263f, 0.780641f 
+1
+
+assets/models9/SM_Env_Rock_03.ply
+62
+-25.8702f, -1.84f, -7.4094f 
+46.2999f, 17.7f, 27.1001f 
+0.575092f, 0.389129f, 0.795875f 
+1
+
+assets/models9/SM_Env_Rock_03.ply
+63
+11.4102f, -1.86982f, -7.50933f 
+38.8f, 126.299f, 27.1001f 
+0.556518f, 0.391462f, 0.772838f 
+1.56
+
+assets/models9/SM_Prop_Crate_Cannonballs.ply
+64
+4.16001f, -1.39f, 3.16004f 
+98.7479f, 0f, 0f 
+1f, 0.8f, 0.4f 
+1.68987
+
+assets/models9/SM_Veh_Extra_Barrels_Group_01.ply
+65
+-3.8f, -1.8f, 4.80001f 
+124.399f, 0.4f, 0.4f 
+0.2f, 0.8f, 0.6f 
+0.84
+
+assets/models9/SM_Prop_Anchor_01.ply
+66
+5.88012f, -2.21996f, 13.0606f 
+311.024f, 145.621f, 46.1999f 
+0.3f, 0.3f, 0.2f 
+0.849866
+
+assets/models9/SM_Prop_Barrel_Half_01.ply
+67
+8.38021f, -2.21996f, 7.95065f 
+51.7397f, -1.59f, 10.2f 
+1f, 0.9f, 0.4f 
+2.05986
+
+assets/models9/SM_Item_Skull_01.ply
+68
+8.38021f, -2.21996f, 7.95065f 
+51.7397f, -1.59f, 10.2f 
+0.8f, 0.2f, 0.2f 
+2.01986
+
+assets/models9/SM_Prop_Debris_02.ply
+69
+5.48059f, -1.70996f, 6.18091f 
+184.602f, 3.7f, 0f 
+0.2f, 0.2f, 0.2f 
+1.25
+
+assets/models9/SM_Prop_Cannon_01.ply
+70
+0.830212f, -1.99996f, 7.95065f 
+47.4998f, 0f, 0f 
+0.4f, 0.2f, 0.1f 
+1.52998
+
+assets/models9/SM_Prop_Fishing_Crate_01.ply
+71
+-18.7898f, -2.04992f, -12.1092f 
+31.3001f, 0f, 4.1f 
+0.4f, 0.3f, 0.1f 
+4.60999
+
+assets/models9/SM_Item_Bottle_01.ply
+72
+5.23023f, -2.00996f, 6.73071f 
+31.4001f, 8.09999f, 116.799f 
+0.5f, 0f, 0.1f 
+3.83986
+
+assets/models9/SM_Item_Bottle_03.ply
+73
+0.820228f, -2.56991f, 0.650656f 
+28.9001f, 12.1f, 52.6998f 
+0.5f, 0f, 0.1f 
+6.76993
+
+assets/models9/SM_Item_Bottle_02.ply
+74
+1.14022f, -2.21996f, 1.61067f 
+68.5995f, 0f, 0f 
+0.5f, 0f, 0.1f 
+4.44987
+
+assets/models9/SM_Item_Bottle_02.ply
+75
+10.5903f, -2.21996f, 9.54069f 
+56.2396f, -1.59f, 10.2f 
+0.5f, 0f, 0.1f 
+2.34986
+

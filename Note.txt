@@ -1,0 +1,4 @@
+The Camera movements are the same without fly camera.
+Press 1: view the ocean wave through jelly fish.
+press 2: view the jelly fish from above the ocean wave.
+press 3: back to normal
